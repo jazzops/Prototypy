@@ -73,10 +73,6 @@ Ten zrzut ekranu jest przydatny do dokumentowania historii zmian w kodzie, preze
 3.  **Dodaj link** do grafiki, która będzie wyświetlona pod nagłówkiem.
 4.  **Opcjonalnie** możesz rozbudować opis o szczegóły dotyczące twojego konkretnego projektu.
 
-Taki opis w formacie Markdown będzie dobrze sformatowany i czytelny na GitHubie, ułatwiając innym zrozumienie historii commitów Twojego projektu.
-
-
-
 [![Mapa-Drogowa-Projektu-Chatbota-RAG-dla-Inteligentnego-Opomiarowania-full.jpg](https://i.postimg.cc/sxYLzq6h/Mapa-Drogowa-Projektu-Chatbota-RAG-dla-Inteligentnego-Opomiarowania-full.jpg)](https://postimg.cc/H8Lz4ZCY)
 
 
