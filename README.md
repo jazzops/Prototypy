@@ -8,7 +8,6 @@ https://smart-grid-gems-22.lovable.app/
 
 # Zrzut ekranu z Historii Commitów Git
 
-Ten obrazek przedstawia zrzut ekranu z narzędzia do przeglądania commitów Git, prawdopodobnie z Visual Studio Code, prezentujący historię commitów w gałęzi `main` projektu `smart-grid-gems-22`.
 
 ## Elementy Interfejsu
 
