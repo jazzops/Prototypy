@@ -150,8 +150,6 @@ Ten diagram przedstawia harmonogram rozwoju chatbota, który wykorzystuje mechan
 3.  **Dodaj link** do grafiki, która będzie wyświetlona pod nagłówkiem.
 4.  **Opcjonalnie** możesz rozbudować opis o szczegóły dotyczące twojego konkretnego projektu.
 
-Taki opis w formacie Markdown będzie dobrze sformatowany i czytelny na GitHubie, ułatwiając innym zrozumienie harmonogramu Twojego projektu.
-
 
 ----
 
@@ -269,10 +267,6 @@ Ten diagram przedstawia plan rozwoju chatbota w kontekście inteligentnego opomi
 2.  **Zamień** nazwę obrazka w linku na **rzeczywistą nazwę Twojej grafiki**.
 3.  **Dodaj link** do grafiki, która będzie wyświetlona pod nagłówkiem.
 4.  **Opcjonalnie** możesz rozbudować opis o szczegóły dotyczące twojego konkretnego projektu.
-
-Taki opis w formacie Markdown będzie dobrze sformatowany i czytelny na GitHubie, ułatwiając innym zrozumienie mapy drogowej Twojego projektu.
-
-
 
 Wzorcowy model architektury RAG
 
@@ -428,8 +422,6 @@ Ten diagram przedstawia architekturę aplikacji, która wykorzystuje podejście 
 2.  **Zamień** nazwę obrazka w linku na **rzeczywistą nazwę Twojej grafiki**.
 3.  **Dodaj link** do grafiki, która będzie wyświetlona pod nagłówkiem.
 4.  **Opcjonalnie** możesz rozbudować opis o szczegóły dotyczące twojego konkretnego projektu.
-
-Taki opis w formacie Markdown będzie dobrze sformatowany i czytelny na GitHubie, ułatwiając innym zrozumienie architektury Twojej aplikacji.
 
 ---------
 
